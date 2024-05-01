@@ -1,3 +1,12 @@
+# PassGAN
+#
+# This code is based on https://github.com/beta6/PassGAN/tree/main
+#
+# Copyright (c) 2017 Ishaan Gulrajani
+#           (c) 2017 Brannon Dorsey (PassGAN modification and modularization)
+#
+# Please see the attached LICENSE file for additional licensing information.
+
 import os, sys
 sys.path.append('/notebooks/01-Code/')
 
